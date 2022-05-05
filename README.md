@@ -1,4 +1,7 @@
 ## Hiii, it's so nice to have u here! 🥰
+<div style="display: inline_block" align="center"><br>
+
+
 📚 I'm student, software analysis and development academic at IFFAR.
 
 👩‍💻 Right now working with <b>C#</b>, <b>.NET</b> and <b>Python.</b> <br>
