@@ -4,7 +4,7 @@
 
 📚 I'm student, software analysis and development academic at IFFAR.
 
-👩‍💻 Right now working with <b>C#</b>, <b>.NET</b>, <b>Python.</b> end <b>PostgreSQL.</b><br>
+👩‍💻 Right now working with <b>C#</b>, <b>.NET</b>, <b>Python</b> end <b>PostgreSQL.</b><br>
 
 💗 End, I'm in love with dogs, games and food.
 
