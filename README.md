@@ -2,11 +2,11 @@
 <div style="display: inline_block" align="center"><br>
 
 
-📚 I'm student, software analysis and development academic at IFFAR.
+📚 "I'm a software development student at IFFAR"
 
 👩‍💻 Right now working with <b>C#</b>, <b>.NET</b>, <b>Python</b> end <b>PostgreSQL.</b><br>
 
-💗 End, I'm in love with dogs, games and food.
+💗 "I love dogs, games and food."
 
 ⚡Fun fact: I was a nurse.
 
