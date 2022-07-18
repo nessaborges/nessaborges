@@ -4,7 +4,7 @@
 
 📚 "I'm a software development student at IFFAR"
 
-👩‍💻 Right now working with <b>C#</b>, <b>.NET</b>, <b>Python</b> end <b>PostgreSQL.</b><br>
+👩‍💻 Right now working with <b>C#</b>, <b>.NET</b>, <b>React</b> end <b>SQLServer.</b><br>
 
 💗 "I love dogs, games and food."
 
