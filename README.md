@@ -6,7 +6,7 @@
 
 👩‍💻 Right now working with <b>C#</b>, <b>.NET</b>, <b>React</b> end <b>SQLServer.</b><br>
 
-💗 "I love dogs, games and food."
+💗 "I love animals, games and food."
 
 ⚡Fun fact: I was a nurse.
 
